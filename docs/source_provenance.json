@@ -1,0 +1,78 @@
+{
+  "prepared_on": "2026-11-23",
+  "source_files": [
+    {
+      "uploaded_filename": "Preprocess(1).ipynb",
+      "uploaded_sha256": "375dc44fa8451b89b33051ff189ec9748358a60f1041cc36a43974b1f5a4a681",
+      "public_path": "notebooks/01_preprocess.ipynb"
+    },
+    {
+      "uploaded_filename": "EDA(1).ipynb",
+      "uploaded_sha256": "40ab5fbcd5aba043a9f96209ec0052c05ffa485775aeb14c8c82586f94331d94",
+      "public_path": "notebooks/02_eda.ipynb"
+    },
+    {
+      "uploaded_filename": "Calibration(1).ipynb",
+      "uploaded_sha256": "ba495be2cd80dd25ca4efb8de7a8b5a9884c749ebd40de86c025617ab11af222",
+      "public_path": "notebooks/03_calibration.ipynb"
+    },
+    {
+      "uploaded_filename": "Evaluation(1).ipynb",
+      "uploaded_sha256": "6bdb1a54e3af97cfa3b3c6644d67fb847e23bfed1dc5fa3f804d7c37195e5522",
+      "public_path": "notebooks/04_evaluation.ipynb"
+    },
+    {
+      "uploaded_filename": "R-AnalyzingResults.zip",
+      "uploaded_sha256": "067d450ba73599e618b9120ea9ce18d5aeadd77c87ac08927efac7c1a3e60347",
+      "archive_member": "IdentityMF/IdentityMF_MinMax_fullResults.txt",
+      "public_path": "data/sample/identitymf_minmax_sample.tsv",
+      "member_sha256": "ec4d6499746f8acca15175ae30f1f84c4d17ef065060d0d7a41e1d2ce10c71b2",
+      "content_changes": "None; renamed to identify the file as a sample."
+    },
+    {
+      "uploaded_filename": "Final_Report(1).pdf",
+      "uploaded_sha256": "c0d0f5a9fa9dbadb70d55bccfbe45125370c8d6001d6233431319726c6adf2f2",
+      "public_path": "reports/final_report.pdf",
+      "changes": "Cover attribution corrected to Amirhossein Sorour; student identifiers removed and document metadata updated. Analytical body retained."
+    },
+    {
+      "uploaded_filename": "Proposal(1).pdf",
+      "uploaded_sha256": "31b8d9f59a12453e19fdbc91ebb4e694cdfba9ebfb57dd2a8379b46afa94f867",
+      "public_path": "reports/project_proposal.pdf",
+      "changes": "Cover attribution corrected to Amirhossein Sorour; student identifiers removed and document metadata updated. Analytical body retained."
+    },
+    {
+      "uploaded_filename": "Final Slides(1).pdf",
+      "uploaded_sha256": "53b68b4ac7abd18e9365b18e878450508990ebf42811e0997b0c08fdb70436eb",
+      "public_path": "reports/final_slides.pdf",
+      "changes": "Raster cover attribution corrected to Amirhossein Sorour; metadata updated; empty trailing template slide removed. All remaining analytical slides retained."
+    }
+  ],
+  "figures": [
+    {
+      "notebook": "EDA(1).ipynb",
+      "original_cell_1_based": 15,
+      "public_path": "assets/reported_score_distribution.png"
+    },
+    {
+      "notebook": "Calibration(1).ipynb",
+      "original_cell_1_based": 46,
+      "public_path": "assets/reported_probability_curves.png"
+    },
+    {
+      "notebook": "Evaluation(1).ipynb",
+      "original_cell_1_based": 21,
+      "public_path": "assets/reported_calibration_curve.png"
+    },
+    {
+      "notebook": "Evaluation(1).ipynb",
+      "original_cell_1_based": 23,
+      "public_path": "assets/reported_roc_curve.png"
+    },
+    {
+      "notebook": "Evaluation(1).ipynb",
+      "original_cell_1_based": 25,
+      "public_path": "assets/reported_precision_recall_curve.png"
+    }
+  ]
+}

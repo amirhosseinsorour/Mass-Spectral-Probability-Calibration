@@ -1,0 +1,4 @@
+# Optional interactive interface. The headless sample runner uses requirements.txt.
+-r requirements.txt
+jupyterlab>=4,<5
+ipykernel>=6,<8

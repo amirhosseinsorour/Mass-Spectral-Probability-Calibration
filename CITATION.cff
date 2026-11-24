@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this project's calibration workflow, please cite this repository and the original NIST study and dataset."
+type: software
+title: "Min-Max Mass Spectral Probability Calibration"
+authors:
+  - family-names: Sorour
+    given-names: Amirhossein
+abstract: >-
+  MSc practicum project at Trent University comparing logistic, isotonic and
+  expanded logistic mappings from replicate-based Identity Match Factor min-max
+  summaries to dataset-conditional same-compound probabilities. Includes a
+  documented small input example, research notebooks and aggregate full-study
+  results. The full dataset is not distributed.
+keywords:
+  - mass spectrometry
+  - probability calibration
+  - min-max test
+  - isotonic regression
+  - logistic regression
+  - imbalanced classification

@@ -1,0 +1,6 @@
+model,term,coefficient
+Logistic r_overlap,intercept,-0.22620851074886983
+Logistic r_overlap,r_overlap,57.44204286384675
+Expanded logistic,intercept,-25.346783722068324
+Expanded logistic,within_min,-21.616601485177906
+Expanded logistic,maxS12,50.27029872331877
